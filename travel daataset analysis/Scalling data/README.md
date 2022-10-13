@@ -5,4 +5,4 @@
 	2. Min-Max Scaling
 	3. Normalization
 	4. Standardization
-	5.Robust Scaling
+	5. Robust Scaling
